@@ -1,0 +1,5 @@
+{
+  "name": "fx_app",
+  "description": "A web application for users to sign up, log in, and set price alerts for various financial assets including forex, indices, crypto, and stocks. The app features a sleek, modern interface with Material UI design principles and leverages AI for market analysis.",
+  "requestFramePermissions": []
+}
